@@ -1,2 +1,2 @@
 # Smart_dustbin
-Designed a bin which can be operated automatically by ultrasonic sensor through Arduino UNO and Arduino IDE.
+Designed a bin which can be operated automatically by ultrasonic sensor through Arduino UNO and Arduino IDE.Smart dustbin as its name represents it works smartly or we can say that it is an automatic dustbin.It works like when you will come in front of this dustbin it will open automatically with the help of a servo motor. so there is some sensor work to detect the object infront of the dustbin. 
